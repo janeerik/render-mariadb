@@ -1,4 +1,4 @@
-# [mysqld]
+[mariadb]
 # Needed for compatibility with existing SQL clients / WordPress.
 # default-authentication-plugin=mysql_native_password
 
